@@ -6,14 +6,23 @@ This project is a modern, responsive website designed for a portfolio or persona
 
 ## Group 246 Members:
 **Emmanuel	Ojo** -	ojoemmanueltiwalade@gmail.com
+
 **Abiodun	Ijiola** -	ijiolaabiodun7@gmail.com	
-**Evaline	Kioko**	- evalinemutuli002@gmail.com	
+
+**Evaline	Kioko**	- evalinemutuli002@gmail.com
+
 **Paul	Odhiambo**	- aloopaul3@gmail.com	
+
 **T urikubwimana	Vincent** -	kubwimanavincent2020@gmail.com	
+
 **Saraphina	Kirika** -	saraphinakirika@gmail.com	
+
 **Argie	Muriuki** -	argieshali@gmail.com	
+
 **Godfrey	Ochieng** -	mcochiengg@gmail.com	
+
 **Gift	Mwangi** -	giftmwangi39@gmail.com	
+
 **Carlos	Chongo** -	chongoc77@gmail.com	
 
 ---
