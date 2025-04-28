@@ -4,6 +4,11 @@ This project is a modern, responsive website designed for a portfolio or persona
 
 ---
 
+## Live Demo :
+https://emmz07.github.io/Web_Dev_Group_Assignment/
+
+---
+
 ## Group 246 Members:
 **Emmanuel	Ojo** -	ojoemmanueltiwalade@gmail.com
 
